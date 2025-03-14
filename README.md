@@ -4,9 +4,6 @@
 
 Audiobook Creator is an open-source project designed to convert books in various text formats (e.g., EPUB, PDF, etc.) into fully voiced audiobooks with intelligent character voice attribution. It leverages modern Natural Language Processing (NLP), Large Language Models (LLMs), and Text-to-Speech (TTS) technologies to create an engaging and dynamic audiobook experience. The project is licensed under the GNU General Public License v3.0 (GPL-3.0), ensuring that it remains free and open for everyone to use, modify, and distribute.
 
-Sample multi voice audio for a short story : https://audio.com/prakhar-sharma/audio/generated-sample-multi-voice-audiobook
-
-
 
 <details>
   <summary>The project consists of three main components:</summary>
@@ -64,7 +61,7 @@ Sample multi voice audio for a short story : https://audio.com/prakhar-sharma/au
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/prakharsr/audiobook-creator.git
+   git clone https://github.com/namag-ai/audiobook-creator.git
    cd audiobook-creator
    ```
 2. Create a virtual environment with Python 3.12:
@@ -145,7 +142,7 @@ Planned future enhancements:
 
 ## Support
 
-For issues or questions, open an issue on the [GitHub repository](https://github.com/prakharsr/audiobook-creator/issues).
+For issues or questions, open an issue on the [GitHub repository](https://github.com/namag-ai/audiobook-creator/issues).
 
 ## License
 
@@ -154,11 +151,6 @@ This project is licensed under the GNU General Public License v3.0 (GPL-3.0). Se
 ## Contributing
 
 Contributions are welcome! Please open an issue or pull request to fix a bug or add features.
-
-## Donations
-
-If you find this project useful and would like to support my work, consider donating:  
-[PayPal](https://paypal.me/prakharsr)
 
 ---
 
